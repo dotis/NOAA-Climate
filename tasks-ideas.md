@@ -2,6 +2,9 @@
 ### Climate data meeting 8/8/2022
 ### Where to get best data to build indicators?
 
+Link to spreadsheet w/data sources:
+https://docs.google.com/spreadsheets/d/10vbzAxnexaF9vXJckQh03fNHWzsFaHNt9YkUmJAfnKo/edit#gid=0
+
 What are the indicators?
 
 How are climate data accessed? Are there best practices?
