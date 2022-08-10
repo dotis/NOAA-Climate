@@ -36,3 +36,8 @@ Epochs are updated every ten years; new "normal" is defined w/20 year overlap
 How to define marine heatwaves?
 
 List of marine sanctuaries w/locations - How to define our "areas"? 
+
+
+## NOAA NCEI GSOM (Global Summary of the Month)
+Select location, one file with many params is downloaded with monthly data from that site
+Codes for params are available from this file.
