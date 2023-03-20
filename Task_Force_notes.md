@@ -69,13 +69,20 @@ MJ: Should different sanctuaries be treating their data in the same way? Can san
 MF: Can we develop a toolbox?
 
 
+
+
+
+
 NOAA Climate Program Office Project
 ## Notes from Task Force meeting on 3/14/2023:
 
-    Further discussion on climate vulnerability on the part of sanctuaries.
-    Dan Berrie (NOAA) - Can we meet at a mtg. of opportunity. OSM in Feb 2024 in NO is a good possibility. Find space at a hotel or a room nearby. Or, an ad hoc meeting may work, but be difficult. Could also do a networking meetup over dinner or evening event.
-    FMK - That might work, also may have an MBON meeting around that time.
-    Ideas for sub-groups: dashboards (Otis, Fewings, Asche, K. Dunning) Jeffrey Runge (indicators), Tammy Silva (forage fish - NMS system wide), Kelly M. (also include climate indicators, indicator work is currently being done with IEA, etc. Zach C. - Also talk about tying indicators to dashboards)
+Further discussion on climate vulnerability on the part of sanctuaries.
+    
+Dan Berrie (NOAA) - Can we meet at a mtg. of opportunity. OSM in Feb 2024 in NO is a good possibility. Find space at a hotel or a room nearby. Or, an ad hoc meeting may work, but be difficult. Could also do a networking meetup over dinner or evening event.
+    
+FMK - That might work, also may have an MBON meeting around that time.
+
+Ideas for sub-groups: dashboards (Otis, Fewings, Asche, K. Dunning) Jeffrey Runge (indicators), Tammy Silva (forage fish - NMS system wide), Kelly M. (also include climate indicators, indicator work is currently being done with IEA, etc. Zach C. - Also talk about tying indicators to dashboards)
     How to organize and share data? Google Drive,
     Zac C. - Time is ripe for climate indicators and dashboards - report is coming out shortly)
     JR - Calanus indicator (important indicator in the GoME)
@@ -86,7 +93,7 @@ NOAA Climate Program Office Project
 
 Presentations:
 
-    Kathy Broughton (manages assessment program) - condition reports (status and trends) - slides are available here (add LINK) Next generation of condition reports have notable improvements - will now include assessment of ecosystem services
+### Kathy Broughton (manages assessment program) - condition reports (status and trends) - slides are available here (add LINK) Next generation of condition reports have notable improvements - will now include assessment of ecosystem services
 
 Questions: Josh K. - How can one access the data? Sanctuaries mostly go straight to the PI, some data is synthesized (IEA)
 
@@ -96,7 +103,7 @@ From Jenny Waddell: I don't want to get ahead of ourselves, but here is what we 
 
 @jenny its preferable to use the Sanctuary Watch URL (https://sanctuarywatch.ioos.us/webcr-olympiccoast/ocean-climate) instead of the github URL
 
-    ZC - climate vulnerability assessment (CVA) - Forward looking from current conditions. These will inform climate informed management plan. Vulnerability assessments are not always in sync with condition reports. (Slides HERE). These assessments give information to make decisions.
+### ZC - climate vulnerability assessment (CVA) - Forward looking from current conditions. These will inform climate informed management plan. Vulnerability assessments are not always in sync with condition reports. (Slides HERE). These assessments give information to make decisions.
 
 CVA guide: https://nmssanctuaries.blob.core.windows.net/sanctuaries-prod/media/docs/2023-mpa-climate-vulnerability-assessment-guide.pdf
 
@@ -104,6 +111,6 @@ ZC - Worksheets are in the appendicies of the CVA guidance. The appendicies can 
 
 From Ginny Selz - While we are transitioning, I'd like to highlight the Climate Observations and Monitoring program manager position (my old position) is currently open and advertised through UCAR. Please share with your networks and any interested individuals. I've added the links to the Announcements section of the Agenda.
 
-    Sarah Stein - Management Plans: Adaptive management - use outputs from CRs and CVAs to guide management. Every ~5-10 years. Process: Management Plan Review (~3 years to complete). Slides HERE.
+### Sarah Stein - Management Plans: Adaptive management - use outputs from CRs and CVAs to guide management. Every ~5-10 years. Process: Management Plan Review (~3 years to complete). Slides HERE.
 
 From Chris Simoniello: Who is the best person for Jen D and I to contact to request access to the sanctuaries preliminary Climate Assessment report? The information would be tremendously helpful in guiding development of the stakeholder workshop agendas. - Zac C.
