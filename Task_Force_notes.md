@@ -68,27 +68,9 @@ MJ: Should different sanctuaries be treating their data in the same way? Can san
 
 MF: Can we develop a toolbox?
 
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-
-
 
 NOAA Climate Program Office Project
-Notes from Task Force meeting on 3/14/2023:
+## Notes from Task Force meeting on 3/14/2023:
 
     Further discussion on climate vulnerability on the part of sanctuaries.
     Dan Berrie (NOAA) - Can we meet at a mtg. of opportunity. OSM in Feb 2024 in NO is a good possibility. Find space at a hotel or a room nearby. Or, an ad hoc meeting may work, but be difficult. Could also do a networking meetup over dinner or evening event.
