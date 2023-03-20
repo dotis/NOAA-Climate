@@ -13,7 +13,7 @@ Working Groups will be formed.
 
 We will meet with sanctuary staff at a future meeting and present to the RC's and others.
 
-C. Notes from Mtg. on 2/14/2023
+## Notes from Mtg. on 2/14/2023
 
 Dillon Amaya: Marine heatwaves; need to standardize baselines; poor communication practices within the community. a. Normal is some fixed period in the past (fixed baseline) b. Or, use a shifted baseline where now 1990-2020 (30 year baseline).
 Miscommunication occurs depending on which baseline method is used.
@@ -69,11 +69,6 @@ MJ: Should different sanctuaries be treating their data in the same way? Can san
 MF: Can we develop a toolbox?
 
 
-
-
-
-
-NOAA Climate Program Office Project
 ## Notes from Task Force meeting on 3/14/2023:
 
 Further discussion on climate vulnerability on the part of sanctuaries.
