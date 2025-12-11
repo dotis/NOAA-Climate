@@ -12,3 +12,4 @@
 
 
 Others: Image from proposal
+<img src="[https://github.com/dotis/Personal/assets/26553741/01bab6ad-cadd-4861-82e8-362e8a6c41c0](https://github.com/dotis/NOAA-Climate/blob/01a5906f1727c86ca3e19168eabc247e5a7d3f5a/image.png)" style="width:600px;height:300px;">
